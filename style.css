@@ -34,6 +34,10 @@ header {
 header img {
   height: 70px;
   max-height: 100%;
+  box-shadow: none;
+  border: none;
+  background: none;
+  display: inline-block;
 }
 
 header h1 {
@@ -150,7 +154,6 @@ main img {
   border-radius: 8px;
   display: block;
   margin: 20px auto;
-  box-shadow: 0 auto 30px auto;
 }
 
 blockquote {
