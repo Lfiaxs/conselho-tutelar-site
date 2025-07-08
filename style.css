@@ -115,12 +115,7 @@ section h2 {
 section p {
   margin-bottom: 10px;
 }
-main section p{
-  list-style: inside disc;
-  padding-left: 0;
-  color: #444;
-  font-size: 16px;
-}
+
 
 main h2, main h3 {
   color: #36648B;
