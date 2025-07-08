@@ -129,6 +129,7 @@ main p {
   line-height: 1.6;
   margin-bottom: 12px;
   text-align: justify;
+  hyphens: auto;
 }
 
 main strong{
