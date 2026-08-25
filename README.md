@@ -1,32 +1,32 @@
-🏛️ Site do Conselho Tutelar
+# 🏛️ Site do Conselho Tutelar
 
 Site institucional desenvolvido para o **Conselho Tutelar**, com o objetivo de facilitar o acesso da comunidade a informações sobre serviços, atendimento e orientação.
 
-🎯 Objetivo
+## 🎯 Objetivo
 
 O projeto foi desenvolvido como uma solução web para apresentar informações importantes sobre o Conselho Tutelar de forma simples, organizada e acessível.
 
 A proposta é facilitar a localização de informações e aproximar a comunidade dos serviços oferecidos pelo órgão.
 
-✨ Funcionalidades
+## ✨ Funcionalidades
 
-🏠 Página inicial com apresentação do Conselho Tutelar
-📋 Informações sobre serviços e atendimento
-ℹ️ Página com informações sobre o Conselho
-📱 Interface responsiva
-🧭 Navegação entre diferentes páginas
-🎨 Interface desenvolvida com foco em simplicidade e facilidade de uso
+* 🏠 Página inicial com apresentação do Conselho Tutelar
+* 📋 Informações sobre serviços e atendimento
+* ℹ️ Página com informações sobre o Conselho
+* 📱 Interface responsiva
+* 🧭 Navegação entre diferentes páginas
+* 🎨 Interface desenvolvida com foco em simplicidade e facilidade de uso
 
-🛠️ Tecnologias utilizadas
+## 🛠️ Tecnologias utilizadas
 
-HTML5
-CSS3
-JavaScript
-Figma
-Git & GitHub
-GitHub Pages
+* HTML5
+* CSS3
+* JavaScript
+* Figma
+* Git & GitHub
+* GitHub Pages
 
-📂 Estrutura do projeto
+## 📂 Estrutura do projeto
 
 ```text
 conselho-tutelar-site/
@@ -39,22 +39,22 @@ conselho-tutelar-site/
 └── README.md
 ```
 
-🌐 Acesse o projeto
+## 🌐 Acesse o projeto
 
 🔗 **[Visualizar o site](https://lfiaxs.github.io/conselho-tutelar-site/)**
 
-📚 Aprendizados
+## 📚 Aprendizados
 
 Durante o desenvolvimento do projeto, foram praticados conceitos de:
 
-Estruturação de páginas com HTML
-Estilização e responsividade com CSS
-Interações utilizando JavaScript
-Organização de um projeto web
-Versionamento utilizando Git e GitHub
-Publicação de projetos utilizando GitHub Pages
+* Estruturação de páginas com HTML
+* Estilização e responsividade com CSS
+* Interações utilizando JavaScript
+* Organização de um projeto web
+* Versionamento utilizando Git e GitHub
+* Publicação de projetos utilizando GitHub Pages
 
-👨‍💻 Desenvolvedor
+## 👨‍💻 Desenvolvedor
 
 **Lucas Fiais**
 
